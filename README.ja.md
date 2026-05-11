@@ -1,7 +1,5 @@
 # opendata-iida
 
-> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
-
 [
 ![デプロイ](https://github.com/code4fukui/opendata-iida/actions/workflows/pages/pages-build-deployment/badge.svg)
 ](https://code4fukui.github.io/opendata-iida/)
@@ -15,4 +13,4 @@
 
 ## 特徴 (Features)
 
-- **2種類のデータセット
+- **2種類のデータセット**
